@@ -10,6 +10,12 @@
 
 ---
 
+## 🌐 Platform Access
+
+👉 https://laliscicalc.netlify.app/
+
+---
+
 # 📖 Overview
 
 Nova Calculator is a modern scientific calculator application designed to deliver a premium calculation experience with a beautiful glassmorphism interface.
