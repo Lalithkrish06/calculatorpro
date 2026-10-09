@@ -15,7 +15,7 @@
 
 <br>
 
-<a href="https://laliscicalc.netlify.app/">
+<a href="https://scicalc.lalithkrish.dev/">
 <img src="https://img.shields.io/badge/OPEN%20LIVE%20CALCULATOR-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Application">
 </a>
 <a href="https://github.com/Lalithkrish06/calculatorpro">
@@ -34,7 +34,7 @@
 
 **Fast Calculations • Scientific Functions • Modern UI • Responsive Experience**
 
-<a href="https://laliscicalc.netlify.app/">
+<a href="https://scicalc.lalithkrish.dev/">
 <img src="https://img.shields.io/badge/LAUNCH%20NOVA%20CALCULATOR-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Launch Calculator">
 </a>
 
@@ -377,7 +377,7 @@ Nova Calculator can evolve into a more advanced mathematical productivity platfo
 
 <div align="center">
 
-<a href="https://laliscicalc.netlify.app/">
+<a href="https://scicalc.lalithkrish.dev/">
 <img src="https://img.shields.io/badge/Live%20Application-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Application">
 </a>
 <a href="https://github.com/Lalithkrish06/calculatorpro">
